@@ -1,0 +1,7 @@
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\bin\Debug\Homework_New_Years_Resolutions.exe.config
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\bin\Debug\Homework_New_Years_Resolutions.exe
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\bin\Debug\Homework_New_Years_Resolutions.pdb
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\obj\Debug\Homework_New_Years_Resolutions.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\obj\Debug\Homework_New_Years_Resolutions.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\obj\Debug\Homework_New_Years_Resolutions.exe
+C:\Users\Kodu\Desktop\Homework_New_Years_Resolutions\Homework_New_Years_Resolutions\obj\Debug\Homework_New_Years_Resolutions.pdb
